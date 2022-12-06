@@ -182,18 +182,18 @@
     },
     "2298141": {
       "just_to_know_id_meaning": "Rémi Delcourt",
-      "link": {          
+      "link": {
         "2022": "https://github.com/RemiDelcourt/adventofcode_2022"
       },
-      "language": {          
+      "language": {
         "2022": "Dart"
       }
-    }
-	"804967": {
+    },
+    "804967": {
       "just_to_know_id_meaning": "Adrien Montbroussous",
       "link": {
-		"2018": "https://github.com/adrienmontbroussous/AdventOfCode2018Python",
-		"2020": "https://github.com/adrienmontbroussous/adventOfCodePython2020",
+        "2018": "https://github.com/adrienmontbroussous/AdventOfCode2018Python",
+        "2020": "https://github.com/adrienmontbroussous/adventOfCodePython2020",
         "2021": "https://github.com/adrienmontbroussous/advent2021",
         "2022": "https://github.com/adrienmontbroussous/advent2022"
       },
@@ -206,4 +206,3 @@
     }
   }
 }
-
