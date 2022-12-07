@@ -204,6 +204,17 @@
         "2021": "Python",
         "2022": "Python"
       }
+    },
+    "752300": {
+      "just_to_know_id_meaning": "Pierre-Yves Berrard",
+      "link": {
+        "2020": "https://gitlab.com/py_b/learn-julia-aoc",
+        "2022": "https://github.com/py-b/advent-of-code-2022"
+      },
+      "language": {
+        "2020": "Julia",
+        "2022": "R"
+      }
     }
   }
 }
