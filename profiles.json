@@ -174,11 +174,13 @@
       "just_to_know_id_meaning": "Maxence Lagalle",
       "link": {
         "2018": "https://github.com/maxence-lagalle/advent-of-code-2018",
-        "2022": "https://github.com/maxence-lagalle/advent-of-code-2022"
+        "2022": "https://github.com/maxence-lagalle/advent-of-code-2022",
+        "2023": "https://github.com/maxence-lagalle/advent-of-code-2023"
       },
       "language": {
         "2018": "Python",
-        "2022": "Python"
+        "2022": "Python",
+        "2023": "Kotlin"
       }
     },
     "2298141": {
