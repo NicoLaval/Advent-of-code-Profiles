@@ -225,6 +225,15 @@
         "2020": "Julia",
         "2022": "R"
       }
+    },
+    "3354585": {
+      "just_to_know_id_meaning": "Jean Dupin",
+      "link": {
+        "2023": "https://github.com/JeanDupin/AOC#readme"
+      },
+      "language": {
+        "2023": "R"
+      }
     }
   }
 }
